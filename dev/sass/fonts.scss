@@ -5,3 +5,16 @@
     font-style: normal;
     font-display: swap;
 }
+
+
+@font-face {
+    font-family: 'OpenSans';
+    src:url('assets/fonts/OpenSans-VariableFont_wdth,wght.ttf') format('truetype');
+    font-weight: 100 900;
+  }
+
+  @font-face {
+    font-family: 'BebasNeue Bold';
+    src:url('assets/fonts/BebasNeue Bold.ttf') format('truetype');
+    font-weight: 700;
+  }
