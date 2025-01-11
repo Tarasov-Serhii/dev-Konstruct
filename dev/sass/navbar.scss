@@ -1,6 +1,19 @@
-.nacbar{
-    font-family: $font-bebas;
-    font-size: 40px;
-    font-weight: 700;
-    color:orangered
-}
+.navbar-brand span {
+    color: #007bff;
+  }
+
+  .nav-link.active {
+    color: #007bff !important; 
+  }
+
+  .navbar .container {
+    margin-right: 260px;
+    margin-left: 270px;
+  }
+
+
+.nav-item {
+margin-left: 32px;
+font-size: 12px;
+line-height: 14.06px;
+  }

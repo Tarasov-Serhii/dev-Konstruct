@@ -1,7 +1,61 @@
-footer{
-    height: 100px;
-    background: $secondary-color;
-    margin-top: auto;
+.footer {
+  background-color: #222;
 }
 
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.footer .img-fluid {
+  max-width: 150px;
+}
+
+.footer address {
+  line-height: 1.6;
+}
+
+
+footer .margin-company {
+  margin-left: 175px;
+}
+
+
+footer p {
+font-size: 11px;
+line-height: 19px;
+letter-spacing: 0.85px;
+text-align: left;
+}
+
+.footer-text-1{
+  width:250px;
+}
+
+.footer-title{
+font-size: 11px;
+line-height: 12.89px;
+letter-spacing: 0.85px;
+text-align: left;
+}
  
+
+footer li {
+  text-transform: uppercase;
+font-size: 11px;
+line-height: 25px;
+letter-spacing: 0.84px;
+text-align: left;
+}
+
+.last-line{
+  text-align: center;
+}
+
+.margin-links{
+  margin-left: -68px;
+  width: 100px;
+}
+.d-flex a {
+  margin-left: -85px;
+  margin-top: 15px;
+}
